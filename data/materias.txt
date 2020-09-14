@@ -1,0 +1,48 @@
+00001_Intro. Informatica_5_1
+00002_Matematicas_7_1
+00003_Trigo_5_1
+00004_Lenguaje_5_1
+00005_Calculo 1_9_2
+00006_Logica_5_2
+00007_Program 1_9_2
+00008_Identidad 1_2_2
+00009_Calculo 2_9_3
+00010_Mat Discretas_5_3
+10005_Fisica General_6_3
+20005_Program 2_9_3
+30005_Identidad 2_2_3
+40005_Calculo 3_7_4
+50005_Lab Fisica Electrica_3_4
+60005_Fisica Electrica_6_4
+70005_Estructura Del Computador_5_4
+80005_Porgram 3_9_4
+90005_Ecologia_2_4
+10002_Calculo 4_7_5
+10003_Circuitos Electronicos_9_5
+10004_Sistemas De Operacion_5_5
+10006_Ingenieria Del Software_5_5
+10007_Interaccion Humano Computador_5_5
+10008_Calculo Numerico_5_6
+10009_Estadistica Y Probabilidades_5_6
+20001_Arquitectura Del Computador_9_6
+20002_Redes1_9_6
+20003_Sistemas De Bases De Datos1_5_6
+20004_Programacion Lineal_5_7
+20006_Redes 2_9_7
+20007_Metodologia Del Software_6_7
+20008_Ingles 1_5_7
+20009_Sistemas De Bases De Datos_5_7
+20898_Contabilidad General_4_7
+12345_Investigacion De Operaciones_4_8
+67891_Redes 3_3_8
+11121_Ingles 2_5_8
+00020_Desarrollo De Software_6_8
+00030_Ingeneria Economica_4_8
+00400_Semitario TG_3_8
+00700_Seguridad Computacional_5_9
+00665_Sistemas Distribuidos_5_9
+00778_Emprendimiento_5_9
+01235_Ingles Tecnico_5_9
+04505_Etica Profesional_3_10
+03655_Eval De Sistemas Informaticos_5_10
+12305_Gestion De Proyectos De Software_5_10
